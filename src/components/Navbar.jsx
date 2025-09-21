@@ -1,4 +1,4 @@
-import { navLinks } from "../../../contants";
+import { navLinks } from "../contants";
 
 const Navbar = () => {
 
